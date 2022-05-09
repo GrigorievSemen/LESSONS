@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person login="george" fuculty="MHM">
+        <telephone>2095306</telephone>
+        <name>Rassel</name>
+        <address>
+            <city>New Yourk</city>
+            <country>The USA</country>
+            <street>5th Manhattan</street>
+        </address>
+    </person>
+    <person login="cheko" fuculty="OPO">
+        <telephone>5468932</telephone>
+        <name>Peres</name>
+        <address>
+            <city>Mexico city</city>
+            <country>Mexico</country>
+            <street>23th Simona st.</street>
+        </address>
+    </person>
+</persons>
