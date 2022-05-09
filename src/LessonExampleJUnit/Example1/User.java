@@ -1,4 +1,4 @@
-package LessonExampleJUnit;
+package LessonExampleJUnit.Example1;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package LessonExampleJUnit;
+package LessonExampleJUnit.Example1;
 
 public enum Sex {
     MALE,
