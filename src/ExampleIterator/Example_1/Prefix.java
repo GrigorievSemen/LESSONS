@@ -1,10 +1,10 @@
-package ExampleIterator;
+package ExampleIterator.Example_1;
 
-public class Root implements WordPart {
+public class Prefix implements WordPart {
 
     private String part;
 
-    public Root(String part) {
+    public Prefix(String part) {
         this.part = part;
     }
 

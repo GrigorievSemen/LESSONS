@@ -1,4 +1,4 @@
-package ExampleIterator;
+package ExampleIterator.Example_1;
 
 public class Ending implements WordPart {
 

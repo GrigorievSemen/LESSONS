@@ -1,10 +1,10 @@
-package ExampleIterator;
+package ExampleIterator.Example_1;
 
-public class Prefix implements WordPart {
+public class Suffix implements WordPart {
 
     private String part;
 
-    public Prefix(String part) {
+    public Suffix(String part) {
         this.part = part;
     }
 
